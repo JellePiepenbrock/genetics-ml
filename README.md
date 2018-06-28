@@ -12,4 +12,4 @@ A repository in which I keep track of papers in which machine learning was appli
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | _25 apr 2017_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/basset.pdf) |  | _None_ | 
+| Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | _03 may 2016_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/basset.pdf) |  | _None_ | 
