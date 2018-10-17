@@ -18,3 +18,9 @@ A repository in which I keep track of papers in which machine learning was appli
 | Sequential regulatory activity prediction across chromosomes with convolutional neural networks | 2018_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/basenji.pdf) | [link](https://github.com/calico/basenji) | _None_ | 
 | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | _20 june 2016_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/danq.pdf) | [link](https://github.com/uci-cbcl/DanQ) | _None_ | 
 | Inference of the human polyadenylation code | _10 april 2018_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/polyadenylationcode.pdf) | - | _None_ | 
+
+### Utility
+
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Selene: a PyTorch-based deep learning library for sequence-level data | _10 october 2018_ | [paper](https://www.biorxiv.org/content/early/2018/10/10/438291) | [link](https://github.com/FunctionLab/selene) | _None_ | 
