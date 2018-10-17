@@ -15,6 +15,6 @@ A repository in which I keep track of papers in which machine learning was appli
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | _03 may 2016_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/basset.pdf) | [link](https://github.com/davek44/Basset) | _None_ | 
-| Sequential regulatory activity prediction across chromosomes with convolutional neural networks | 2018_ | [paper](hhttps://github.com/jellepiepenbrock/genetics-ml/blob/master/basenji.pdf) | [link](https://github.com/calico/basenji) | _None_ | 
+| Sequential regulatory activity prediction across chromosomes with convolutional neural networks | 2018_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/basenji.pdf) | [link](https://github.com/calico/basenji) | _None_ | 
 | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | _20 june 2016_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/danq.pdf) | [link](https://github.com/uci-cbcl/DanQ) | _None_ | 
 | Inference of the human polyadenylation code | _10 april 2018_ | [paper](https://github.com/jellepiepenbrock/genetics-ml/blob/master/polyadenylationcode.pdf) | - | _None_ | 
