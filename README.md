@@ -6,9 +6,9 @@ A repository in which I keep track of papers in which machine learning was appli
 
 
 
-2. [Machine Learning in Genomics](#enhancers)
+2. [Machine Learning in Genomics](#mlgenom)
 
-## Convulutation Neural Networks
+## mlgenom
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
